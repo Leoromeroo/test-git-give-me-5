@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<ul>
+    <li><h2>Formation</h2>
+    <ol>
+        <li><h4>Formation 1</h4>
+            <p>detail formation</p>
+        
+        </li>
+    </ol>
+    </li>
+    
+    <li><h2>Experiences</h2></li>
+    
+    <li><h2>Diplome</h2></li>
+</ul>
+</body>
+</html>

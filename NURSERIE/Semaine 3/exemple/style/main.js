@@ -1,0 +1,1 @@
+const sectionContainer = document.querySelector("Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo maxime explicabo cupiditate ipsam autem. Estnecessitatibus, architecto esse quaerat hic repellat libero nisi ad eos ex vero at in velit"); 
